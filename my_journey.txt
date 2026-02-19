@@ -1,4 +1,0 @@
-Goal 1: Master the Linux command Line
-Goal 2: Understand the file system
-Day 2: Successfully connected my local Ubuntu to GitHub
-
